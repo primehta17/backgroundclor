@@ -1,16 +1,22 @@
-*{
+/* *{
     margin:0px;
     padding:0px;
-}
+} */
 
 body{
     background-color:black;
 }
 
+#hexColor{
+    color:white;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; 
+}
+
 button{
     background-color:grey;
-    padding:5px;
-    border:2px solid white;
-   text-align:center;
-    
 }
