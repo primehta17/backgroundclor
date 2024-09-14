@@ -31,3 +31,9 @@ button:hover{
     color:blueviolet;
     box-shadow: 2px 2px green;
 }
+
+#imagechange, #animalchange,#objectchange{
+    margin:10px;
+    width:400px;
+    height:400px;
+}
